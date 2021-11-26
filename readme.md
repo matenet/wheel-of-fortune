@@ -1,3 +1,10 @@
+# wheel-of-fortune
+Interfaceless game Wheel of fortune written in PHP
+
+Use 'composer install' to install app.
+Use 'php vendor/bin/phpunit' to run tests.
+
+
 Napisano obiektową implementację uproszczonej wersji popularnej gry "Koło fortuny". Gra polega na próbie odgadnięcia zakrytego słowa poprzez próby zgadywania poszczególnych liter.
 
 Zasady gry:
